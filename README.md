@@ -1,1 +1,2 @@
-# hackerrank_30_days_of_code
+# Hackerrank: 30 Days of Code
+## Repository to store all of the projects by day
